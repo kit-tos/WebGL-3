@@ -18,7 +18,12 @@ Unityを開いて操作します。
 ![image](https://user-images.githubusercontent.com/93690866/153190449-18f0500e-4ae4-4a24-b52d-7f0ad64e5fae.png)  
 
 ## BuildしたデータをGithubにアップする
-1. Buildしたデータ（1.Build, 2.TemplateData, 3.index）をコピー（or切り取り）して、githubのフォルダ貼り付ける  
+1. Githubで新しいRepositoriesを作成  
+![image](https://user-images.githubusercontent.com/93690866/153192382-016b1bd4-c72b-467b-a7e8-ac26f0328905.png)  
+
+2. Repositoriesの名前
+
+2. Buildしたデータ（1.Build, 2.TemplateData, 3.index）をコピー（or切り取り）して、githubのフォルダ貼り付ける  
 ![image](https://user-images.githubusercontent.com/93690866/153191574-22092c6c-ed92-4ff4-aed7-8c2a3b8064fc.png)  
 
 
