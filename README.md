@@ -54,7 +54,7 @@ Unityを開いて操作します。
    「GitHub Pages」->「Source」->「None」を「main」に変更->「Save」
 ![image](https://user-images.githubusercontent.com/93690866/153200506-e1b2d483-4fb1-4150-80cf-c9e4f94e3995.png)  
 
-   得られたURLを取得。ちなみにクリックしたら遊べます
+   得られたURLをコピーする。ちなみにクリックしたら遊べます
 ![image](https://user-images.githubusercontent.com/93690866/153201120-b6b5b7a9-acc5-4753-a3a0-c768865176de.png)  
 
 ### 7. GitHubのCode画面にゲームのURLを貼り付ける
