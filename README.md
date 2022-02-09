@@ -49,7 +49,7 @@ Unityを開いて操作します。
 ### 6. GitHubでBuildしたゲームのURLを取得する
    「Settings」->「GitHub Pages」->「Chenk it out here!」※2.でPublicにしないとGitHub Pagesから次に進まなくなる
 ![image](https://user-images.githubusercontent.com/93690866/153199619-fbe7701a-5449-4b6b-82c0-b38e47cc1c17.png)  
-![image](https://user-images.githubusercontent.com/93690866/153199801-2513be98-af7c-4d0c-9828-8082e4abd623.png)  
+![image](https://user-images.githubusercontent.com/93690866/153208087-c8c6dd92-7de5-4aa0-b226-6c45ecd87bd7.png)  
 
    「GitHub Pages」->「Source」->「None」を「main」に変更->「Save」
 ![image](https://user-images.githubusercontent.com/93690866/153200506-e1b2d483-4fb1-4150-80cf-c9e4f94e3995.png)  
