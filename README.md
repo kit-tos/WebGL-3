@@ -22,6 +22,7 @@ Unityを開いて操作します。
 ![image](https://user-images.githubusercontent.com/93690866/153192382-016b1bd4-c72b-467b-a7e8-ac26f0328905.png)  
 
 2. Repositoriesの名前
+![image](https://user-images.githubusercontent.com/93690866/153193243-ee074af4-8f68-4ff1-b246-178dd86f2167.png)
 
 2. Buildしたデータ（1.Build, 2.TemplateData, 3.index）をコピー（or切り取り）して、githubのフォルダ貼り付ける  
 ![image](https://user-images.githubusercontent.com/93690866/153191574-22092c6c-ed92-4ff4-aed7-8c2a3b8064fc.png)  
