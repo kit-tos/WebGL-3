@@ -23,9 +23,9 @@ Unityを開いて操作します。
 
 ## BuildしたデータをGitHubにアップする
 ### 1. GitHubで新しいRepositoriesを作成  
-![image](https://user-images.githubusercontent.com/93690866/153192382-016b1bd4-c72b-467b-a7e8-ac26f0328905.png)  
+![image](https://user-images.githubusercontent.com/93690866/153203754-3b54d9b7-cef4-41d4-9d5f-5e27e83234b6.png)  
 
-### 2. Repositoriesの名前と公開設定などを指定。「Public」にしないとうまくいかなかった（後で詳細について説明あり）  
+### 2. Repositoriesの名前と公開設定などを指定。「Public」にしないとうまくいかなかった（6.で詳細について説明あり）  
    「Repository name」を入力（->「Description」の記入はどっちでも）->「Public」->「Create repository」  
 ![image](https://user-images.githubusercontent.com/93690866/153193243-ee074af4-8f68-4ff1-b246-178dd86f2167.png)  
 
@@ -37,6 +37,40 @@ Unityを開いて操作します。
 
 ### 4. cloneしたrepositoryにBuildしたファイルをアップする  
    Buildしたデータ（1.Build, 2.TemplateData, 3.index）をコピー（or切り取り）して、gitHubのフォルダ貼り付ける  
-![image](https://user-images.githubusercontent.com/93690866/153191574-22092c6c-ed92-4ff4-aed7-8c2a3b8064fc.png)  
+![image](https://user-images.githubusercontent.com/93690866/153198046-bdaa241d-74a1-4c97-8f94-0a41ef36ecc9.png)   
+![image](https://user-images.githubusercontent.com/93690866/153197846-c5c81205-dd45-45f8-beb4-8e672bb455da.png)  
+
+### 5. GitHub Desktopでmainにcommitする  
+   Summary (required)に何か記入する。ここではtestと入力 -> 「Commit to main」
+![image](https://user-images.githubusercontent.com/93690866/153198631-b977f061-b7ad-40e8-affc-00f0c7bf18d8.png)  
+   「Publish branch」をクリック  
+![image](https://user-images.githubusercontent.com/93690866/153198874-9dc10f27-2f00-4184-977b-82c734d299ed.png)  
+
+### 6. GitHubでBuildしたゲームのURLを取得する
+   「Settings」->「GitHub Pages」->「Chenk it out here!」※2.でPublicにしないとGitHub Pagesから次に進まなくなる
+![image](https://user-images.githubusercontent.com/93690866/153199619-fbe7701a-5449-4b6b-82c0-b38e47cc1c17.png)  
+![image](https://user-images.githubusercontent.com/93690866/153199801-2513be98-af7c-4d0c-9828-8082e4abd623.png)  
+
+   「GitHub Pages」->「Source」->「None」を「main」に変更->「Save」
+![image](https://user-images.githubusercontent.com/93690866/153200506-e1b2d483-4fb1-4150-80cf-c9e4f94e3995.png)  
+
+   得られたURLを取得。ちなみにクリックしたら遊べます
+![image](https://user-images.githubusercontent.com/93690866/153201120-b6b5b7a9-acc5-4753-a3a0-c768865176de.png)  
+
+### 7. GitHubのCode画面にゲームのURLを貼り付ける
+   「Code」->「About ⚙」->「Descriptin」にコメント記入->「Website」に取得したゲームのURLを張り付ける->「Save Changes」
+![image](https://user-images.githubusercontent.com/93690866/153203204-14bd3a48-1990-4f97-8f50-22c1a8063637.png)  
+
+### 終了
+
+## 実際に遊んでみる
+「About ⚙」欄のURLをクリック
+![image](https://user-images.githubusercontent.com/93690866/153203417-92cac98d-328b-433e-ab44-8af262600147.png)
+
+
+
+
+
+   
 
 
