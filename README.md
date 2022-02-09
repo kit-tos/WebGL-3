@@ -67,7 +67,9 @@ Unityを開いて操作します。
 「About ⚙」欄のURLをクリック
 ![image](https://user-images.githubusercontent.com/93690866/153203417-92cac98d-328b-433e-ab44-8af262600147.png)
 
-
+## 参考サイト
+[1. WebGL のブラウザー間での互換性](https://docs.unity3d.com/ja/current/Manual/webgl-browsercompatibility.html)  
+[2. UnityのWebGLビルドをWeb上にパブリッシュしてテストする](https://51n1.uk/post/web-publishing-with-unity-webgl/page1.html)
 
 
 
